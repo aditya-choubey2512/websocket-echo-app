@@ -1,0 +1,6 @@
+token: Rm7z_CDB5QHOSL8pL4XWPRURB4sQlDRSW1HIMLjv2oArQ
+environment: aditya-websocket-test
+runAsDaemonSet: false
+daemonSetMirroringEnabled: true
+ebpfCaptureEnabled: true
+ebpfRunAsPrivileged: true
